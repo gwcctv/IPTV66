@@ -636,6 +636,14 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?$云播
 青田电视,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed?$云播
 龙泉新闻,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed?$云播
 龙游新闻,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?$云播
+陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
+陕西都市青春,http://gxlive.snrtv.com/sx2-SD.m3u8
+陕西生活,http://gxlive.snrtv.com/sx3-SD.m3u8
+陕西影视,http://gxlive.snrtv.com/sx4-SD.m3u8
+陕西公共,http://gxlive.snrtv.com/sx5-SD.m3u8
+陕西乐家购物,http://gxlive.snrtv.com/sx6-SD.m3u8
+陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
+陕西移动,http://stream.snrtv.com/sxbc-yd-uBDW46.m3u8
 汉中综合,http://36.46.66.2:4022/udp/239.112.205.215:5140
 洋县电视台,http://36.46.66.2:4022/udp/239.111.205.77:5140
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8?key=txiptv
