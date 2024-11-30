@@ -480,9 +480,11 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 鹿鼎记,https://lunbo.freetv.top/yy/28265277
 三国演义,https://lunbo.freetv.top/yy/1354930932
 少年包青天,https://lunbo.freetv.top/yy/38498680
+射雕英雄传,https://lunbo.freetv.top/yy/1354210357
 神雕侠侣,https://lunbo.freetv.top/yy/1351762426
 神医喜来乐,https://lunbo.freetv.top/yy/1382714119
 神探狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=3395113
+知否知否应是绿肥红瘦,https://lunbo.freetv.top/yy/21881901
 天龙八部,https://lunbo.freetv.top/yy/1351814644
 天道,https://lunbo.freetv.top/yy/1382735574
 太子妃升职记,https://lunbo.freetv.top/yy/1354932359
@@ -493,7 +495,6 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 寻秦记,https://lunbo.freetv.top/yy/1382851591
 倚天屠龙记,http://159.75.85.63:35455/huya/23734246?cdn=txcdn
 宰相刘罗锅,https://lunbo.freetv.top/yy/1382745191
-知否知否应是绿肥红瘦,https://lunbo.freetv.top/yy/21881901
 CHC动作电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
 CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
 CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
