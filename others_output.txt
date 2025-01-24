@@ -1,18 +1,18 @@
-新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=36a8f204a9fade39a071fcdf1951b3be&wsTime=1737601212
-都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=42f39ad8c8d34d64f0f6858e7a08ba69&wsTime=1737601212
-民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=e5d55a5c708ba03489b89595a33781d6&wsTime=1737601212
-法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=478ee5eb7a4e3b5c13640707c5012b9f&wsTime=1737601212
-公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=9093ed49fd3fb63668da684a3d4dcf68&wsTime=1737601212
-河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=c30157b2aee8b0eb8f22b2d82e710790&wsTime=1737601212
-电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=89182045e7a7314fac75cc57953e3ff2&wsTime=1737601212
-梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=cafb5bf86fb522b3a465564c542e65c3&wsTime=1737601212
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=1078970dc0aff501c5ee342e44abb559&wsTime=1737601212
-武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=52a8c2e483aa75862c86e956b1e664b1&wsTime=1737601212
-睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=9b15d58a102d0c3d8e557bd7eadbc0c3&wsTime=1737601212
-移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=003b4535b3beb6878e4766206d3549f7&wsTime=1737601212
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=61ff4ce3fab2aad63a5c9f07e776467f&wsTime=1737601212
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=080ba444f13440730ff30939d6ea3bcd&wsTime=1737601212
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=6e050e79b79d854936a04bbb2068297a&wsTime=1737601212
+新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=ae895a6dad79bb25c0d65a56f2d7f72d&wsTime=1737690474
+都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=457d6c96108c7b5cf5e150045d89efe0&wsTime=1737690474
+民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=9a00cdb53afc59af8ce30d4af988aeaa&wsTime=1737690474
+法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=728dd30902bfc332bbeab8a4237e067e&wsTime=1737690474
+公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=42c03da20053c1337fada8c0445590d1&wsTime=1737690474
+河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=ff7134d01354195390db4e4b921830fc&wsTime=1737690474
+电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=7c8668f0afe05120edb5e46bfb0734a4&wsTime=1737690474
+梨园频道,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=890ce3ff581033ca2c9c06db9bd84cf4&wsTime=1737690474
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=b029980543968bc6d76e4e9209e6b57b&wsTime=1737690474
+武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=a48472003ef121cf46e1120eb87f2bae&wsTime=1737690474
+睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=4388123413c15609058abd840a228352&wsTime=1737690474
+移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=a87f7f37e027f6b830cf0c3a2d908390&wsTime=1737690474
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=c0ceaa7feccf22dca73c03936aba2efd&wsTime=1737690474
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=848ec9d90c2dba967d5786885268fb64&wsTime=1737690474
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=9a4382cbcc7c53fcf2b10c14368918b6&wsTime=1737690474
 斗鱼电影HD1,https://live.metshop.top/douyu/4246519$LR•IPV4『线路3』
 斗鱼电影HD4,https://live.metshop.top/douyu/85894$LR•IPV4『线路3』
 斗鱼电影HD5,https://live.metshop.top/douyu/263824$LR•IPV4『线路3』
@@ -79,78 +79,18 @@ X战警系列电影,http://liushizupu.site:35455/yy/1382736893$LR•IPV4
 电影_搞笑喜剧,https://live.metshop.top/huya/11342423$LR•IPV4『线路2』
 电影_宇宙,https://live.metshop.top/huya/11342428$LR•IPV4『线路2』
 电影_黑帮片,https://live.metshop.top/huya/11336719$LR•IPV4『线路2』
-中天新聞台,http://aktv.top/AKTV/live/aktv/null8/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs1/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null9/AKTV.m3u8
-鳳凰中文,http://aktv.top/AKTV/live/aktv/null3/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null1/AKTV.m3u8
-鳳凰資訊,http://aktv.top/AKTV/live/aktv/null4/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv/null1/AKTV.m3u8
-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk1/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null2/AKTV.m3u8
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-鳳凰香港,http://aktv.top/AKTV/live/aktv/null5/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-中天亞洲台,http://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null17/AKTV.m3u8
-千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null15/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null18/AKTV.m3u8
-娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null21/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null10/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null19/AKTV.m3u8
-Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null6/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null11/AKTV.m3u8
-28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-龍華電影台,http://aktv.top/AKTV/live/aktv/null23/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-龍華經典台,http://aktv.top/AKTV/live/aktv/null7/AKTV.m3u8
-viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null2/AKTV.m3u8
-龍華日韓台,http://aktv.top/AKTV/live/aktv/null22/AKTV.m3u8
-Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null3/AKTV.m3u8
-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-iFun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-NHK WorldJapan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
-Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
+BTV卡通,http://113.57.20.158:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 上海教育,http://61.173.144.157:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-上海电视剧,http://61.173.144.157:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 上海纪实,http://61.173.144.157:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 中国教育,http://113.57.20.158:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-山东影视,http://124.128.73.58:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-山东综艺,http://124.128.73.58:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-山东齐鲁,http://61.156.228.12:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+山东少儿,http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+山东综艺,http://123.129.70.178:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+山东齐鲁,http://123.129.70.178:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+崇明综合,http://61.173.144.157:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+新闻综合,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 法制天地,http://61.173.144.157:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-济南影视,http://124.128.73.58:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-济南都市,http://124.128.73.58:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-海看大片,http://124.128.73.58:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北影视,http://113.57.20.158:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北经视,http://113.57.20.158:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-都市剧场,http://61.173.144.157:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-齐鲁,http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+都市,http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://113.57.20.158:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN记录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EYcJ3PdHkzUJtmPevi5x_2A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CGTN,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb26wc0XXKkqPiVtXlNQMiQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CGTN,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227030/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWR3JI0iklU2klIzSzhH6nA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
